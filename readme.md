@@ -28,7 +28,7 @@ npm run build
 
 ## Demo App
 
-The demo app is a very simple Joke generator. Replace with your own code and install other packages as needed
+The demo app is a very simple StarWars person generator.
 
 - index.js (main javascript)
 - template.html (template)
